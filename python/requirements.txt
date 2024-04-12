@@ -1,0 +1,14 @@
+langchain
+Flask
+huggingface
+transformers
+langchain-community
+pypdf
+llama-index
+chromadb==0.4.22
+llama-index-llms-langchain
+llama-index
+llama-index-embeddings-langchain
+llama-index-llms-huggingface
+sentence_transformers
+bitsandbytes
